@@ -3,7 +3,7 @@
         "restaurants", "delivery", "burgers", "chinese", "italian", "reservations", "japanese", "mexican", "thai", "contractors", "electricians", "home+cleaners", "hvac", "landscaping", "locksmiths", "movers", "plumbers", "auto+repair", "auto+detailing", "body+shops", "car+wash", "car+dealers", "oil+change", "parking", "towing", "phone_repair", "bars", "nightlife", "gyms", "massage", "shopping", "takeout", "accountants", "plumbers", "auto+repair", "body+shops", "car+wash"
     ],
     "states" : [
-        "AK", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
+        "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
         "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
         "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
         "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
