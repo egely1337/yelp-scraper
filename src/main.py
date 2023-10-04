@@ -1,5 +1,9 @@
-from util import *
+#!/usr/bin/python3
+#Author: egely1337
+#Date: 10/4/2023
 
+
+from util import *
 from bs4 import BeautifulSoup, Tag
 from requests import Session
 from json import load
